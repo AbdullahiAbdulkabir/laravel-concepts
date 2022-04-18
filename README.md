@@ -9,3 +9,4 @@ Laravel is a web application framework with expressive, elegant syntax. Learning
 - https://laracasts.com/series/laravel-5-fundamentals/episodes/26
 - https://youtu.be/6B6CEskJKyc
 - https://stackoverflow.com/questions/54517534/laravel-solid-principles
+- https://laracasts.com/series/laravel-5-fundamentals/episodes/26
